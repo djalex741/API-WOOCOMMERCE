@@ -1,0 +1,8 @@
+{
+    "name": "user/api_woocommerce",
+    "description": "API prueba",
+    "license": "MTI",
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
